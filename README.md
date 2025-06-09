@@ -8,8 +8,7 @@
 
 ---
 
-🛑 **Important note:** This project is private and was developed as a custom solution for [Amagran Granitos](https://www.amagran.com/en), one of Brazil’s leading granite companies.  
-The code here represents the backend service powering the experience.  
+🛑 **Important note:** This project is private and was developed as a custom solution for [Amagran Granitos](https://www.amagran.com/en), one of Brazil’s leading granite companies.    
 Any questions, feel free to [reach out](mailto:joaohenrique@jhbdev.com.br).
 
 ---
