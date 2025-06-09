@@ -14,8 +14,8 @@ Any questions, feel free to [reach out](mailto:joaohenrique@jhbdev.com.br).
 ---
 | page | Description |
 |------------|-------------|
-| [![User - Chat Text](https://drive.google.com/uc?export=view&id=1146qH40kH2YyVqbKbdqlLWspoco_pc6K)](https://drive.google.com/uc?export=view&id=1146qH40kH2YyVqbKbdqlLWspoco_pc6K) | User chat interface: conversation with agent (text) |
-| [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1ecxuGf9ZBQxntaAKcv2N1iXRSvdi4dE5)](https://drive.google.com/uc?export=1ecxuGf9ZBQxntaAKcv2N1iXRSvdi4dE5) | User chat interface: conversation with agent (voice enabled via ElevenLabs) |
+| [![User - Chat Text](https://drive.google.com/uc?export=view&id=1146qH40kH2YyVqbKbdqlLWspoco_pc6K)](https://drive.google.com/uc?export=view&id=1146qH40kH2YyVqbKbdqlLWspoco_pc6K) | main page) |
+| [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1ecxuGf9ZBQxntaAKcv2N1iXRSvdi4dE5)](https://drive.google.com/uc?export=1ecxuGf9ZBQxntaAKcv2N1iXRSvdi4dE5) | talk to stone page |
 
 ## Interface demonstration
 👉 **[Watch Demo](https://youtu.be/6_zmRWJ77Jg?feature=shared)**
