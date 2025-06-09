@@ -1,14 +1,14 @@
-<h1 align="center">🗿 Stone-AI – Conversational AI for Amagra Granitos</h1>
+<h1 align="center">🗿 Stone-AI – Conversational AI for Amagran Granitos</h1>
 
 <p align="center">
-  <strong>Backend API built for Amagra (Vila Velha, Brazil), giving each granite slab its own voice</strong>
+  <strong>Backend API built for Amagran (Vila Velha, Brazil), giving each granite slab its own voice</strong>
 </p>
 
-> ⚠️ **Heads-up:** You're looking at the backend portion only – all frontend & design was handled by Amagra’s design team and external partners. My role focused on the API layer and AI integrations.
+> ⚠️ **Heads-up:** You're looking at the backend portion only – all frontend & design was handled by Amagran’s design team and external partners. My role focused on the API layer and AI integrations.
 
 ---
 
-🛑 **Important note:** This project is private and was developed as a custom solution for [Amagra Granitos](https://amagra.com.br/), one of Brazil’s leading granite companies.  
+🛑 **Important note:** This project is private and was developed as a custom solution for [Amagran Granitos](https://Amagran.com.br/), one of Brazil’s leading granite companies.  
 The code here represents the backend service powering the experience.  
 Any questions, feel free to [reach out](mailto:joaohenrique@jhbdev.com.br).
 
@@ -36,7 +36,7 @@ Any questions, feel free to [reach out](mailto:joaohenrique@jhbdev.com.br).
 
 ## 🚀 Why?
 
-Stone-AI was created to bring an innovative, interactive experience to Amagra’s physical and digital showrooms.
+Stone-AI was created to bring an innovative, interactive experience to Amagran’s physical and digital showrooms.
 
 ### 🧠 **Each stone with its own voice & story**
 Visitors can select a granite slab and converse with it — each stone has its own tone, personality, and knowledge.
@@ -93,7 +93,7 @@ Feel free to get in touch:
 ## 📜 Licensing
 
 All documentation provided here is under **Creative Commons CC-BY-NC-SA 4.0**.  
-Source code remains private, developed exclusively for Amagra Granitos.
+Source code remains private, developed exclusively for Amagran Granitos.
 
 ---
 
