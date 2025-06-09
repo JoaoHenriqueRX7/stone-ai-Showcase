@@ -85,7 +85,7 @@ Soon, visitors will be able to upload a photo of their home and preview what it 
 ## 🙌 Interested?
 
 Feel free to get in touch:  
-📧 [bruno@yourdevmail.com](mailto:bruno@yourdevmail.com)
+📧 [joaohenrique@jhbdev.com](mailto:joaohenrique@jhbdev.com)
 
 ---
 
