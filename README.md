@@ -96,4 +96,4 @@ Source code remains private, developed exclusively for Amagran Granitos.
 
 ---
 
-Thanks for reading — **Stone-AI is giving Brazilian granite a voice.** 🗿✨
+Thanks for comming!
