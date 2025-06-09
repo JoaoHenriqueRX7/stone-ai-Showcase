@@ -19,7 +19,7 @@ Any questions, feel free to [reach out](mailto:joaohenrique@jhbdev.com.br).
 | [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1ecxuGf9ZBQxntaAKcv2N1iXRSvdi4dE5)](https://drive.google.com/uc?export=1ecxuGf9ZBQxntaAKcv2N1iXRSvdi4dE5) | User chat interface: conversation with agent (voice enabled via ElevenLabs) |
 
 ## Interface demonstration
-👉 **[Watch MVP Demo](https://youtu.be/6_zmRWJ77Jg?feature=shared)**
+👉 **[Watch Demo](https://youtu.be/6_zmRWJ77Jg?feature=shared)**
 ---
 
 ## 📸 High-Level Architecture
